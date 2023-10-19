@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <TodoList /> {/* Agrega el componente TodoList aquí */}
+        <TodoList />
       </header>
     </div>
   );
